@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/Solution12.java" />
+      <file url="file://$PROJECT_DIR$/Solution13.java" />
+      <file url="file://$PROJECT_DIR$/Solution14.java" />
+      <file url="file://$PROJECT_DIR$/Solution15.java" />
+      <file url="file://$PROJECT_DIR$/Solution16.java" />
+      <file url="file://$PROJECT_DIR$/Solution17.java" />
+      <file url="file://$PROJECT_DIR$/Solution18.java" />
+      <file url="file://$PROJECT_DIR$/Solution19.java" />
+      <file url="file://$PROJECT_DIR$/Solution20.java" />
+      <file url="file://$PROJECT_DIR$/Solution4.java" />
+      <file url="file://$PROJECT_DIR$/Solution6.java" />
+      <file url="file://$PROJECT_DIR$/Solution7.java" />
+      <file url="file://$PROJECT_DIR$/Solution9.java" />
+    </excludeFromCompile>
+  </component>
+</project>
